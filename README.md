@@ -3,7 +3,6 @@
 - 💻 Hoje busco uma vaga de Desenvolvedor Web
 - 🤓 Atualmente estou estudando React JS
 - 📫 Contate-me no email: contactvicctor@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 <a href="https://github.com/victorjlv/github-readme-stats">
   <img align="center" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api?username=victorjlv&hide=contribs&show_icons=true&theme=midnight-purple" />
