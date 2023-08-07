@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: contactvicctor@gmail.com
 
 <a href="https://github.com/victorjlv/github-readme-stats">
-  <img align="center" width="46%" height="40%" src="https://github-readme-stats.vercel.app/api?username=victorjlv&hide=contribs&show_icons=true&theme=midnight-purple" />
+  <img align="center" width="54%" height="40%" src="https://github-readme-stats.vercel.app/api?username=victorjlv&hide=contribs&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/victorjlv/github-readme-stats">
   <img align="center" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorjlv&langs_count=5&layout=compact&theme=midnight-purple" />
