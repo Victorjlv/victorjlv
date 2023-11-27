@@ -1,7 +1,7 @@
 ### Oii! Eu sou o João Victor 👋
 
-- 💻 Hoje busco uma vaga de Desenvolvedor Web
-- 🤓 Atualmente estou estudando React JS
+- 💻 Hoje busco uma vaga de Desenvolvedor Frontend
+- 🤓 Atualmente estou estudando Angular
 - 📫 Contate-me no email: contactvicctor@gmail.com
 
 <a href="https://github.com/victorjlv/github-readme-stats">
