@@ -1,7 +1,7 @@
 ### Oii! Eu sou o João Victor 👋
 
 - 💻 Hoje busco uma vaga de Desenvolvedor Frontend
-- 🤓 Atualmente estou estudando ReactJS e Inglês
+- 🤓 Atualmente estou estudando ReactJS e inglês
 - 📫 Contate-me no email: contactvicctor@gmail.com
 
 <a href="https://github.com/victorjlv/github-readme-stats">
