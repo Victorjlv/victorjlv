@@ -1,6 +1,6 @@
 ### Oii! Eu sou o João Victor 👋
 
-- 💻 Hoje busco uma vaga de Desenvolvedor BackEnd.
+- 💻 Hoje busco uma vaga de Desenvolvedor FrontEnd.
 - 🤓 Atualmente estou estudando Java.
 - 📫 Contate-me no email: contactvicctor@gmail.com
 
