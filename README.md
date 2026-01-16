@@ -1,7 +1,7 @@
 ### Oii! Eu sou o João Victor 👋
 
-- 💻 Hoje busco uma vaga de Desenvolvedor FrontEnd.
-- 🤓 Atualmente estou estudando Java.
+- 💻 Hoje busco uma vaga de Analista de Dados.
+- 🤓 Atualmente estou estudando Analise de dados.
 - 📫 Contate-me no email: contactvicctor@gmail.com
 
 <a href="https://github.com/victorjlv/github-readme-stats">
